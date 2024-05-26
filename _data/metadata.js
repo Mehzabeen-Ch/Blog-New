@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Blog-One",
+	title: "11ty Blog-One Project",
 	url: "https://example.com/",
 	language: "en",
 	description: "Blog-One is all about using 11ty with nunjuck files.",
