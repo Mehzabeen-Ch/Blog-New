@@ -69,3 +69,8 @@ secondary colours </caption>
 </fieldset>
 
 A form that we are going to attempt to use with Bootstrap and Flex Grids soon.
+
+
+Here is a screenshot of the table we created using html and css stylesheet in our course for a challenge.
+
+{% image "./Table-Challenge.png", "A Table-Challenge screenshot" %}
